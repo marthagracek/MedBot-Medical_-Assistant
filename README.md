@@ -10,9 +10,9 @@ A Gemini-powered version of this chatbot is also available in this repository (`
 
 **Gradio Web Interface**
 
-![Gradio Output 1](gradio_output1.png)
-![Gradio Output 2](gradio_output2.png)
-![Gradio Output 3](gradio_output3.png)
+![Gradio Output 1](images/gradio_output1.png)
+![Gradio Output 2](images/gradio_output2.png)
+![Gradio Output 3](images/gradio_output3.png)
 
 **Command-Line Interface**
 
