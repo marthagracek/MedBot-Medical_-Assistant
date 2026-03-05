@@ -106,6 +106,12 @@ MedBot-Medical_-Assistant/
 │
 ├── finalmedibot_openai.ipynb   # Main notebook (OpenAI version)
 ├── final_medibot_gemini.ipynb  # Gemini version
+├── gradio_output1.png          # Demo screenshots
+├── gradio_output2.png
+├── gradio_output3.png
+├── output1.png
+├── output2.png
+├── output3.png
 └── README.md
 ```
 
